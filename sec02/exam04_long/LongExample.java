@@ -11,5 +11,6 @@ public class LongExample {
 		System.out.println(var4);
 	} 
 }
+/*변경하지 않았음*/
 
 
